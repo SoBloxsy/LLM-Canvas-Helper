@@ -5,6 +5,7 @@
 // @description  adds a 'look up with ai' button to specific sections on *.instructure.com pages
 // @author       https://github.com/SoBloxsy
 // @match        *://*.instructure.com/*
+// @updateURL    https://raw.githubusercontent.com/SoBloxsy/llm-canvas-helper/main/userscript.js
 // @grant        none
 // ==/UserScript==
 
